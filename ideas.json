@@ -4670,8 +4670,6 @@
   "at": "2026-11-16"
  },
  "votes": {
-  "seller": true,
-  "down": "힘들어요",
-  "downIcon": "😥"
+  "seller": true
  }
 }
